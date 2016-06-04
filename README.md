@@ -5,3 +5,4 @@
 [I'm a relative reference to a repository file](../blob/master/Share/2STEP.syx)
 
 https://github.com/luntar/nixieshare/blob/master/Share/2STEP.syx
+https://github.com/luntar/nixieshare/blob/master/Share/2STEP.syx?raw=true
