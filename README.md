@@ -6,3 +6,7 @@
 
 https://github.com/luntar/nixieshare/blob/master/Share/2STEP.syx
 https://github.com/luntar/nixieshare/blob/master/Share/2STEP.syx?raw=true
+
+
+http://github.com/luntar/nixieshare/blob/master/Share/2STEP.syx
+http://github.com/luntar/nixieshare/blob/master/Share/2STEP.syx?raw=true
